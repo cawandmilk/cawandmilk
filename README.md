@@ -4,6 +4,8 @@ All histories about me can be found in [CV paper](https://www.overleaf.com/read/
 
 ### News
 
+**2023/06**: We are pleased to share that four of our papers, including "Investigating Training Data Extraction Attacks on Large Language Models: Threats, Concerns, and Countermeasures," have been chosen for oral presentation at CISC-S'23.
+
 **2023/02**: Our ["On Membership Inference Attacks to Generative Language Models Across Language Domains"](https://link.springer.com/chapter/10.1007/978-3-031-25659-2_11) paper is published in Springer LNCS.
 
 **2023/02**: Our ["Membership Inference Attacks With Token-Level Deduplication on Korean Language Models"](https://doi.org/10.1109/ACCESS.2023.3239668) paper is published in IEEE Access.
