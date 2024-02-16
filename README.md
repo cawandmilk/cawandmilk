@@ -4,7 +4,7 @@ All histories about me can be found in [CV paper](https://www.overleaf.com/read/
 
 ### News
 
-**2024/02** Our paper [An analysis of the Correlation between Generated Sentences of Masked Language Models and Original Training Data Distribution](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705265) has been published online. congratulations!
+**2024/02** Our paper [An analysis of the Correlation between Generated Sentences of Masked Language Models and Original Training Data Distribution](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705265), an oral presentation at KCS 2023, has been published online. Congratulations!
 
 **2024/02**: We have submitted our paper, 'Amplifying Training Data Exposure through Fine-Tuning with Pseudo-Labeled Memberships' to an anonymous AI conference and is currently *under review*.
 
